@@ -14,14 +14,4 @@ export const tasks = [
         title: 'my third to do',
         description: 'my third to do',
     },
-    {
-        id:3,
-        title: 'my fourth to do',
-        description: 'my fourth to do',
-    },
-    {
-        id:4,
-        title: 'my fifth to do',
-        description: 'my fifth to do',
-    },
 ]
